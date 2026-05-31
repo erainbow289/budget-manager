@@ -1,6 +1,6 @@
 # budget-manager
 Python project simulating a resource management system for learning programming and game development fundamentals
-# Budget Manager (Python)
+# budget-manager (Python)
 
 ## Overview
 Budget Manager is a Python-based project designed to simulate a simple resource management system. It allows users to create budgets, track spending, and monitor remaining funds.
@@ -57,3 +57,27 @@ It also gave me insight into how resource systems work, which is directly releva
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/budget-manager.git
+   ```
+2. Navigate into the project folder:
+   ```bash
+   cd budget-manager
+   ```
+3. Run the program:
+   ```bash
+   python main.py
+   ```
+
+---
+
+## Development Goals
+- Improve code structure and modularity
+- Add data persistence (save/load functionality)
+- Expand into a more advanced resource management system
+- Introduce a simple user interface (CLI or GUI)
+- Evolve project into a game-like economy simulation
+
+---
+
+## Author
+Aspiring game developer focused on building skills in programming, systems thinking, and game development workflows.
+GitHub: https://github.com/erainbow289
